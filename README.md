@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Zach Stafiej (@zachstafiej)
+# 👋 Hi, I’m Zach Stafiej
 
 ## 👀 About Me  
 I'm an aspiring **Data Analyst** passionate about **sports analytics**, **data visualization**, and **storytelling with data**. I’m currently working on **Puck Vision Analytics**, a personal project leveraging NHL data to create insightful analytics and visualizations.
