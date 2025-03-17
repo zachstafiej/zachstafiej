@@ -4,12 +4,12 @@
 I'm an aspiring **Data Analyst** passionate about **sports analytics**, **data visualization**, and **storytelling with data**. I’m currently working on **Puck Vision Analytics**, a personal project leveraging NHL data to create insightful analytics and visualizations.
 
 ## 📖 Currently Learning  
-- **Data Science & Analytics** (Python, SQL, Tableau, Polars, Pandas)  
-- **API Integration** (NHL API, data scraping, automation)  
-- **Machine Learning & Predictive Modeling**  
+- **Data Science & Analytics** (Python, SQL, Tableau, Pandas, AWS, and Microsoft Azure)  
+- **API Integration** (NHL API, data scraping, automation)
+- **Machine Learning & Predictive Modeling**
 
 ## 👥 Looking to Collaborate On  
-- **Sports Data Projects** (hockey, football, analytics)  
+- **Sports Data Projects**
 - **Data Visualizations & Dashboards**  
 - **Open-source projects in analytics & data science**  
 
